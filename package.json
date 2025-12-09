@@ -7,6 +7,7 @@
     "node": "16.x"
   },
   "scripts": {
-    "install": "cd WS && npm install"
+    "install": "cd WS && npm install",
+    "start": "cd WS && npm start"
   }
 }
