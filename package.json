@@ -1,0 +1,12 @@
+{
+  "name": "x-ttt-root",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Root package.json for Railway detection",
+  "engines": {
+    "node": "16.x"
+  },
+  "scripts": {
+    "install": "cd WS && npm install"
+  }
+}
