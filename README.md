@@ -50,4 +50,10 @@ To test the project locally
 
 
 
-## Scope of this update
+## Updated by Alex Au-Yeung on Dec 9, 2025
+
+- Added 'Restart' button for offline mode
+- Added Scoreboard for offline mode, coupled with restart button, players can now see the win/loss record against computer in the same session
+- Added a "Board Size" selector, where it lets users to choose to play on a board in the sizes of 3x3, 4x4, 5x5. Board with higher numbers may require updating UI to accommodate
+- Updated player matching logic of server to allow matching of preferred board size.
+
