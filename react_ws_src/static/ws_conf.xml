@@ -26,7 +26,7 @@
 		<SCRIPT__contact_form		u='e/s'	/>
 
 
-		<SOCKET__io		u='http://localhost:3001'	/>
+		<SOCKET__io		u='http://alexay-xttt.up.railway.app:3001'	/>
 	</loc>
 
 <!--	========================	========================	========================	-->
